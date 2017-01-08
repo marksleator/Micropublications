@@ -7,7 +7,7 @@ Micropublication #1
 <a href="https://github.com/marksleator/Micropublications/blob/master/Micropublication.jpg">Click Here</a>
 
 <br>
-Micorpublication #2
+Micropublication #2
 
 <a href="https://github.com/marksleator/Micropublications/blob/master/Yesteryear.mp4">Video</a>
 
